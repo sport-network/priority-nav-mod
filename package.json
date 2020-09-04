@@ -1,0 +1,132 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "priority-nav",
+        "scope": null,
+        "escapedName": "priority-nav",
+        "name": "priority-nav",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/andrea/Dropbox/Sites/htdocs/sportnetwork/ts"
+    ],
+    [
+      {
+        "raw": "https://andreaverde@bitbucket.org/andreaverde/priority-nav-mod.git",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "https://andreaverde@bitbucket.org/andreaverde/priority-nav-mod.git",
+        "spec": "git+https://andreaverde@bitbucket.org/andreaverde/priority-nav-mod.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "bitbucket",
+          "ssh": "git@bitbucket.org:andreaverde/priority-nav-mod.git",
+          "sshUrl": "git+ssh://git@bitbucket.org/andreaverde/priority-nav-mod.git",
+          "httpsUrl": "git+https://andreaverde@bitbucket.org/andreaverde/priority-nav-mod.git",
+          "shortcut": "bitbucket:andreaverde/priority-nav-mod",
+          "directUrl": "https://bitbucket.org/andreaverde/priority-nav-mod/raw/master/package.json"
+        }
+      },
+      "/Users/andrea/Dropbox/Sites/htdocs/sportnetwork/ts"
+    ]
+  ],
+  "_from": "git+https://andreaverde@bitbucket.org/andreaverde/priority-nav-mod.git",
+  "_id": "priority-nav@1.0.12",
+  "_inCache": true,
+  "_location": "/priority-nav",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "gijsroge",
+    "email": "rogegijs@gmail.com"
+  },
+  "_npmVersion": "3.3.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "https://andreaverde@bitbucket.org/andreaverde/priority-nav-mod.git",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "https://andreaverde@bitbucket.org/andreaverde/priority-nav-mod.git",
+    "spec": "git+https://andreaverde@bitbucket.org/andreaverde/priority-nav-mod.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "bitbucket",
+      "ssh": "git@bitbucket.org:andreaverde/priority-nav-mod.git",
+      "sshUrl": "git+ssh://git@bitbucket.org/andreaverde/priority-nav-mod.git",
+      "httpsUrl": "git+https://andreaverde@bitbucket.org/andreaverde/priority-nav-mod.git",
+      "shortcut": "bitbucket:andreaverde/priority-nav-mod",
+      "directUrl": "https://bitbucket.org/andreaverde/priority-nav-mod/raw/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://andreaverde@bitbucket.org/andreaverde/priority-nav-mod.git#79802eb07c27048de83b2e3eeeb7493d47330aa6",
+  "_shasum": "da1bd4e28c104cd706f2fdeaae90762429d7c6b4",
+  "_shrinkwrap": null,
+  "_spec": "https://andreaverde@bitbucket.org/andreaverde/priority-nav-mod.git",
+  "_where": "/Users/andrea/Dropbox/Sites/htdocs/sportnetwork/ts",
+  "author": {
+    "name": "Gijs Rogé",
+    "url": "http://twitter.com/gijsroge"
+  },
+  "bugs": {
+    "url": "https://github.com/gijsroge/priority-navigation/issues"
+  },
+  "dependencies": {},
+  "description": "Priority+ pattern navigation that hides menu items if they don't fit on screen.",
+  "devDependencies": {
+    "crayola": "0.0.1",
+    "grunt": "0.4.5",
+    "grunt-bump": "0.3.1",
+    "grunt-contrib-concat": "0.5.1",
+    "grunt-contrib-jshint": "0.11.2",
+    "grunt-contrib-uglify": "0.9.1",
+    "grunt-contrib-watch": "0.6.1",
+    "grunt-sass": "1.0.0",
+    "jshint-stylish": "2.0.1",
+    "load-grunt-tasks": "3.2.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "1dc14c9aec89beb3200c136ad960528870165a91",
+    "tarball": "https://registry.npmjs.org/priority-nav/-/priority-nav-1.0.12.tgz"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "gitHead": "e21b941a0d4250a9bcd70106185d9c7e3dc8e22d",
+  "homepage": "http://gijsroge.github.io/priority-nav.js/",
+  "keywords": [
+    "priority+",
+    "responsive",
+    "navigation"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/gijsroge/priority-navigation/blob/master/LICENSE"
+  },
+  "main": "dist/priority-nav.js",
+  "maintainers": [
+    {
+      "name": "gijsroge",
+      "email": "rogegijs@gmail.com"
+    }
+  ],
+  "name": "priority-nav",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gijsroge/priority-navigation.git"
+  },
+  "scripts": {
+    "test": "grunt jshint"
+  },
+  "title": "priority-nav",
+  "version": "1.0.12"
+}
